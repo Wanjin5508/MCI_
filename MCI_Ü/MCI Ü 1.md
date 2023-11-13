@@ -67,19 +67,34 @@ s.GBAWS
 
 # Aufgaben
 ## 1.1
-- Sammlung von Methoden von UCD
-	- Verschiedenheit der Benutzer
+- Sammlung von Methoden von UCD recherchieren
+Entwickeln Sie eine Übersicht (Sammlung oder Ontologie) von Methoden für das User-Centred Design; Stellen Sie sich dabei folgende Fragen:
+- Welchen Input benötigt oder Output liefert jede Phase des UCD?
+- Mit welchen Kosten sind die Methoden verbunden bzw. wie niedrigschwellig ist die Anwendung? • Welche Methoden eignen sich in frühen Projektphasen und welche für späte Projektphasen?
+
+Recherchieren Sie Methoden zur Kontextanalyse
+Recherchieren Sie Methoden zur Benutzendenanalyse
+Recherchieren Sie Methoden für das Design (abgesehen von der finalen Implementierung) Recherchieren Sie Methoden zur Evaluation
+
+- Verschiedenheit der Benutzer
 - Schritt für Schritt, + in- / output in jedem Schritt. + (früh und spät)
 	- Kosten 
 
-- ![[Pasted image 20231024151101.png]]
+- 
 	- google scholar
 	- https://link.springer.com
 
 ## 1.2
-- 哪种软件开发项目使用 UCD , 哪种不使用?
-- Prozessmodellen von UCD zur SW-Entwicklung
-![[Pasted image 20231024151743.png]]
+- Bei welcher Art Softwareprojekt findet der UCD-Prozess Anwendung? Und umgekehrt: Bei welcher nicht?
+- Wie lässt sich UCD in typischen Prozessmodellen zur Softwareentwicklung praktisch integrieren?
+- Integration in klassische Entwicklungsprozesse, zum Beispiel:
+	- Wasserfall
+	- Spiralmodell • V-Modell (XT)
+- Integration in agile Entwicklungsprozesse, zum Beispiel:
+	- Extreme Programming
+	- Scrum
+	- Kanban
+	- Feature-Driven Development
 
 ## 1.3
 ### a
