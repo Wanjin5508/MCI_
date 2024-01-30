@@ -2,28 +2,29 @@
 
 ### Aufgabe 2.1 - Kontext verstehen
 
-_Ziel ist die Entwicklung eines Verständnisses für die Nutzungsumstände für Ihr spezifisches System. Spezifizieren Sie daher den Kontext zum System durch die Beantwortung der nachfolgenden Fragen._
+Ziel ist die Entwicklung eines Verständnisses für die Nutzungsumstände für Ihr spezifisches System. Spezifizieren Sie daher den Kontext zum System durch die Beantwortung der nachfolgenden Fragen.
 
-_Wer sind die primären Nutzenden des Systems?_
+#### Wer sind die primären Nutzenden des Systems?
 
 - Kinder
 - geistig & körperlich behinderte Personen
 - Betreuende Personen
 - Familienangehörige
-- - Senioren
+- Senioren
+- Alzheimer Patienten
 
-_Weshalb wollen die Nutzenden das System einsetzen (Motivation)?_
+#### Weshalb wollen die Nutzenden das System einsetzen (Motivation)?
 
 - Spaß & Zeitvertreib
 - Lernen von Wörtern & Bildern
 - Wissen vermitteln
-- - Gedächtnisleistung verbessern
+- Gedächtnisleistung verbessern
 
-_Wofür wollen die Nutzenden das System einsetzen (Aufgaben)?_
+#### Wofür wollen die Nutzenden das System einsetzen (Aufgaben)?
 
-- - Konkrete Aufgaben sind ähnlich wie bei einigen Sport- und Fitness-Apps, die durch tägliche Aufgaben das Denkvermögen und die Gedächtnisleistung der Benutzer trainieren, um die geistige Gesundheit zu gewährleisten.
+- Konkrete Aufgaben sind ähnlich wie bei einigen Sport- und Fitness-Apps, die durch tägliche Aufgaben das Denkvermögen und die Gedächtnisleistung der Benutzer trainieren, um die geistige Gesundheit zu gewährleisten.
 
-_In welcher Umgebung wollen die Nutzenden das System einsetzen (Umgebung/Kontext)?_
+#### In welcher Umgebung wollen die Nutzenden das System einsetzen (Umgebung/Kontext)?
 
 - Schule / Betreuungsstätte
 - Zu Hause
@@ -31,10 +32,10 @@ _In welcher Umgebung wollen die Nutzenden das System einsetzen (Umgebung/Kontext
 
 ### Aufgabe 2.2 - Aufgaben analysieren
 
-_Entwickeln Sie ein Verständnis für die Art und Weise der Aufgabenbewältigung, indem Sie eine Hierarchische Taskanalyse (HTA) für die ermittelten Aufgaben Ihres Systems durchführen._
+> Entwickeln Sie ein Verständnis für die Art und Weise der Aufgabenbewältigung, indem Sie eine Hierarchische Taskanalyse (HTA) für die ermittelten Aufgaben Ihres Systems durchführen.
 
-_1. Jede Aufgabe spannt einen separaten HTA Baum auf (Root Element)._
+1. Jede Aufgabe spannt einen separaten HTA Baum auf (Root Element).
 
-_2. Teilen Sie die Aufgaben systematisch in mehreren Schritten (mehrere Ebenen) in Teilaufgaben. Sie bestimmen den Detailgrad, der für ein Prozessverständnis notwendig ist. 3. Notieren Sie Timing Labels für sequenzielle, parallele der alternative Abläufe an den inneren Konten. 4. Zusatz: Überprüfen Sie die Blattknoten Ihrer HTA. Notieren Sie die Zuständigkeiten dieser Teilaufgaben._
+2. Teilen Sie die Aufgaben systematisch in mehreren Schritten (mehrere Ebenen) in Teilaufgaben. Sie bestimmen den Detailgrad, der für ein Prozessverständnis notwendig ist. 3. Notieren Sie Timing Labels für sequenzielle, parallele der alternative Abläufe an den inneren Konten. 4. Zusatz: Überprüfen Sie die Blattknoten Ihrer HTA. Notieren Sie die Zuständigkeiten dieser Teilaufgaben.
 
 ![[Pasted image 20231116125426.png]]
