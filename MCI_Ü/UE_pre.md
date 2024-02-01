@@ -15,7 +15,7 @@
 
 ### Bei welcher Art Softwareprojekt findet der UCD Prozess Anwendung? Und umgekehrt: Bei welcher nicht?
 
-Da die Benutzerfreundlichkeit und Akzeptanz durch den Endnutzer beim UCD im Mittelpunkt steht, werden vor allem solche Produkte durch das UCD profitieren und mit diesem Modell entwickelt, z.B:
+Da die *Benutzerfreundlichkeit* und *Akzeptanz* durch den Endnutzer beim UCD im Mittelpunkt steht, werden vor allem solche Produkte durch das UCD profitieren und mit diesem Modell entwickelt, z.B:
 
 > **Software für Endanwender:** UCD ist besonders wichtig bei Software, die von Endbenutzern in ihrem täglichen Leben oder Arbeitsumfeld verwendet wird, wie mobile Apps, Webanwendungen, Bürosoftware und Unterhaltungssoftware.
 
@@ -23,7 +23,7 @@ Da die Benutzerfreundlichkeit und Akzeptanz durch den Endnutzer beim UCD im Mitt
 
 > **Gesundheitswesen und Medizinische Anwendungen:** In diesen Projekten ist die Benutzersicherheit und die einfache Bedienbarkeit von größter Bedeutung.
 
-> **E-Learning und Bildung:** Die Gestaltung von E-Learning-Plattformen und -Anwendungen erfordert eine hohe Benutzerfreundlichkeit, um die Lernziele der Benutzer zu erreichen.
+> **E-Learning und Bildung:** Die Gestaltung von E-Learning-Plattformen und -Anwendungen erfordert eine hohe *Benutzerfreundlichkeit*, um die Lernziele der Benutzer zu erreichen.
 
 > **Soziale Netzwerke und Kommunikationsanwendungen:** Eine gute Usability und ein positives Benutzererlebnis sind entscheidend für den Erfolg von Plattformen wie sozialen Netzwerken und Messaging-Apps.
 
@@ -44,7 +44,7 @@ Weniger relevant ist das UCD z.B. bei folgenden Anwendungsbereichen: (Allerdings
 
 **Iterative und inkrementelle Modelle (z. B. Agile, Scrum):**
 
-- UCD kann leicht in iterative Modelle integriert werden, da es auf kontinuierlichem Benutzerfeedback und wiederholten Verbesserungen basiert.
+- UCD kann leicht in *iterative Modelle* integriert werden, da es auf kontinuierlichem *Benutzerfeedback* und wiederholten Verbesserungen basiert.
 - Planen Sie regelmäßige Benutzertests, Expertenbewertungen und Design-Überarbeitungen in den Entwicklungszyklus ein.
 
 **V-Modell (V-Modell XT):**
@@ -70,11 +70,10 @@ Weniger relevant ist das UCD z.B. bei folgenden Anwendungsbereichen: (Allerdings
 - Die Betonung der Bedeutung der Benutzerfreundlichkeit und der Benutzerzentriertheit im gesamten Entwicklungsprozess.
 
 
-
 ## 1.3 Projektidee für MCI-Übung entwickeln
 - Finanzhandelssoftware für blinde Benutzer
 - ToDo App mit Sprachassistenten
-- Memory Spiel für Behinderte/Eingeschränkte Personen
+- ==Memory Spiel für Behinderte/Eingeschränkte Personen==
 - medizinische Gesundheits-App für ältere Menschen mit leicht verständlichen Grafiken und sprachgestreuten Anleitungen
 - intelligentes Haussteuerungssystem für Behinderte
 
@@ -84,7 +83,7 @@ Weniger relevant ist das UCD z.B. bei folgenden Anwendungsbereichen: (Allerdings
 
 ### Aufgabe 2.1 - Kontext verstehen
 
-Ziel ist die Entwicklung eines Verständnisses für die Nutzungsumstände für Ihr spezifisches System. Spezifizieren Sie daher den Kontext zum System durch die Beantwortung der nachfolgenden Fragen.
+**Ziel** ist die Entwicklung eines Verständnisses für die Nutzungsumstände für Ihr spezifisches System. Spezifizieren Sie daher den Kontext zum System durch die Beantwortung der nachfolgenden Fragen.
 
 #### Wer sind die primären Nutzenden des Systems?
 
@@ -118,7 +117,9 @@ Ziel ist die Entwicklung eines Verständnisses für die Nutzungsumstände für
 
 1. Jede Aufgabe spannt einen separaten HTA Baum auf (Root Element).
 
-2. Teilen Sie die Aufgaben systematisch in mehreren Schritten (mehrere Ebenen) in Teilaufgaben. Sie bestimmen den Detailgrad, der für ein Prozessverständnis notwendig ist. 3. Notieren Sie Timing Labels für sequenzielle, parallele der alternative Abläufe an den inneren Konten. 4. Zusatz: Überprüfen Sie die Blattknoten Ihrer HTA. Notieren Sie die Zuständigkeiten dieser Teilaufgaben.
+2. Teilen Sie die Aufgaben systematisch in mehreren Schritten (mehrere Ebenen) in Teilaufgaben. Sie bestimmen den Detailgrad, der für ein Prozessverständnis notwendig ist. 
+3. Notieren Sie Timing Labels für sequenzielle, parallele der alternative Abläufe an den inneren Konten. 
+4. Zusatz: Überprüfen Sie die Blattknoten Ihrer HTA. Notieren Sie die Zuständigkeiten dieser Teilaufgaben.
 
 ![[Pasted image 20231116125426.png]]
 
@@ -177,7 +178,7 @@ Ziel ist die Entwicklung eines Verständnisses für die Nutzungsumstände für
 **Ängste:** Emma hat Angst davor, dass das Spiel zu schwierig sein könnte und sie sich langweilt. Sie möchte Spiele, die herausfordernd, aber auch altersgerecht sind.
 
 ## Persona 4: Familie Schneider - Familienangehörige von geistig behinderten Personen
-![[Pasted image 20240130205219.png]]
+![[Pasted image 20240130205219.png|400]]
 
 - **Alter:** Eltern (40 und 42), Kind (10) mit geistiger Behinderung
 - **Beruf:** Vater - Büroangestellter, Mutter - Hausfrau (Teilzeit)
@@ -204,6 +205,7 @@ Ziel ist die Entwicklung eines Verständnisses für die Nutzungsumstände für
 
 LoFi-Prototype: file:///Users/wanjinli/Library/CloudStorage/OneDrive-个人/桌面/WS%20%202324/WS_2324/MCI/MCI_Ü/UE4/Uebung4.2/home.html
 
+Mock-up: [[Aufgabe 4.2.pdf]]
 ## Aufgabe 4.3 State chart erstellen
 ### Taste / Bedienelemente
 - operate
@@ -239,7 +241,7 @@ insgesamt 14 Zustände + 48 Transitionen
 # Übung 5 - Evaluation und Statistische Grundlagen
 ## 5.1 Evaluation
 -> TLX
-![[Pasted image 20240130211753.png]]
+![[Pasted image 20240201134022.png]]
 
 
 -> SUS
@@ -247,11 +249,4 @@ insgesamt 14 Zustände + 48 Transitionen
 ## 5.2 Statistik
 https://github.com/Wanjin5508/MCI_/blob/main/MCI_Ü/UE5/mci_5_2/mci_5_2.ipynb
 
-
-
-
-
-
-
-
-
+---
